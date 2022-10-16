@@ -24,6 +24,7 @@ Application Link:
 	
 	
 Screenshots:
+
 ![photo_2022-10-13_19-03-31](https://user-images.githubusercontent.com/81956506/196036505-44cbe125-5454-4045-abaf-1dcacba10351.jpg)
 ![photo_2022-10-13_19-03-37](https://user-images.githubusercontent.com/81956506/196036508-00f11383-f548-47c1-995a-76a4ebcd45f4.jpg)
 ![photo_2022-10-13_19-03-39](https://user-images.githubusercontent.com/81956506/196036509-23672389-9d8b-4b83-996e-5871e013514e.jpg)
